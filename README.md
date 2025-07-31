@@ -27,7 +27,7 @@ This kit includes input push buttons, output indicators, and a 24V DC power supp
 
 ## 📜 Circuit Schematic
 
-![PLC Trainer Kit Schematic](Schematics/schematic)
+![PLC Trainer Kit Schematic](Schematics/schematic.png)
 
 ---
 
