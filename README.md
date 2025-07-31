@@ -21,8 +21,8 @@ This kit includes input push buttons, output indicators, and a 24V DC power supp
 
 | Top View | Close-up |
 |----------|----------|
-| ![PLC Trainer Kit](Images/kit-top-view.jepg) | ![PLC Trainer Kit Close-up](Images/kit-closeup) |
-|![PLC Trainer Kit Connections](Images/kit-connections) 
+| ![PLC Trainer Kit](Images/kit-top-view.jpeg) | ![PLC Trainer Kit Close-up](Images/kit-closeup.jpeg) |
+|![PLC Trainer Kit Connections](Images/kit-connections.jpeg) 
 ---
 
 ## 📜 Circuit Schematic
