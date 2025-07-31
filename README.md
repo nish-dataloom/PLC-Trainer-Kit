@@ -64,11 +64,6 @@ This kit includes input push buttons, output indicators, and a 24V DC power supp
 
 ---
 
-## 📂 Repository Structure
-
-
----
-
 ## 🏫 Acknowledgement
 
 This project was developed as part of the **SJCE EEE Department** academic work.  
